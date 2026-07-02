@@ -1,0 +1,29 @@
+.page-header {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.header-logo .logo-part {
+  color: var(--navy-blue);
+}
+
+.nav-item-link {
+  font-weight: 500;
+  color: var(--navy-blue);
+}
+
+.contacts {
+  font-style: normal;
+}
+
+.contacts-link {
+  color: var(--slate);
+}
+
+.nav-item-link:hover,
+.nav-item-link:focus,
+.contacts-link:hover,
+.contacts-link:focus {
+  color: var(--ocean);
+}
