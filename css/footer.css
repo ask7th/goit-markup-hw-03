@@ -1,5 +1,11 @@
 .footer {
   background-color: var(--navy-blue);
+  padding: 100px 0;
+}
+
+.footer-logo {
+  margin-bottom: 16px;
+  display: inline-block;
 }
 
 .footer-logo .logo-part {
@@ -12,4 +18,5 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--cloud);
+  max-width: 264px;
 }
